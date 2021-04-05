@@ -2,9 +2,10 @@
 Character recognition with neural networks in machine learning.
 //Create a csv file in excel of the matrix obtained from your charater.
 // Then read the file in R studio and compile the below code.
+// Download the neccessary packages in R studio and use the latest version
 # Data
 
-data <- read.csv("da2.csv", header = TRUE)
+data <- read.csv("machinelearnig.csv", header = TRUE)
 str(data)
 
 

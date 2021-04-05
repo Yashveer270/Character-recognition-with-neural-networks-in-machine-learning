@@ -1,4 +1,4 @@
-# heydude07
+# machine learning with neural network
 Character recognition with neural networks in machine learning.
 //Create a csv file in excel of the matrix obtained from your charater.
 // Then read the file in R studio and compile the below code.
